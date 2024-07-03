@@ -1,0 +1,94 @@
+{
+  "trip_packages": [
+    {
+      "id": 1,
+      "country": "Thailand",
+      "name": "Phuket Beach Vacation",
+      "price": 500,
+      "description": "A relaxing week on the beautiful beaches of Phuket.",
+      "photo_url": "https://www.travelandleisure.com/thmb/RQ3JmT8V2y2fhwr7NY0cgUumcCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/phuket-thailand-karst-formation-phuket0327-92bd3ce9266148dba74cba5e36c711e2.jpg",
+      "type": "hot_deal"
+    },
+    {
+      "id": 2,
+      "country": "Japan",
+      "name": "Tokyo Adventure",
+      "price": 700,
+      "description": "Explore the bustling city of Tokyo with guided tours.",
+      "photo_url": "https://miro.medium.com/v2/resize:fit:1400/1*Ga5Npl4dtZpYOab-Kmw8Hg.jpeg",
+      "type": "exclusive"
+    },
+    {
+      "id": 3,
+      "country": "Italy",
+      "name": "Rome Historical Tour",
+      "price": 600,
+      "description": "A week exploring the historical landmarks of Rome.",
+      "photo_url": "https://www.discover-the-world.com/study-trips/app/uploads/2018/07/italy-rome-forum-sunset-istk-1800x0-c-default.jpg",
+      "type": "hot_deal"
+    },
+    {
+      "id": 4,
+      "country": "France",
+      "name": "Paris Romantic Getaway",
+      "price": 800,
+      "description": "A romantic getaway in the city of love, Paris.",
+      "photo_url": "https://globalgrasshopper.com/wp-content/uploads/2020/08/Romantic-Paris-1000x735.jpg",
+      "type": "exclusive"
+    },
+    {
+      "id": 5,
+      "country": "Australia",
+      "name": "Sydney City Tour",
+      "price": 750,
+      "description": "Explore the vibrant city of Sydney.",
+      "photo_url": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1200,h_630/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/qrt1zjeqpyhfvx6lngav/Sydney%20City%20Day%20Tour.jpg",
+      "type": "hot_deal"
+    },
+    {
+      "id": 6,
+      "country": "USA",
+      "name": "New York City Experience",
+      "price": 900,
+      "description": "Experience the energy and attractions of New York City.",
+      "photo_url": "https://btsq.com/wp-content/uploads/2023/12/Best-of-New-York-City-Private-Experience-1.jpg",
+      "type": "exclusive"
+    },
+    {
+      "id": 7,
+      "country": "Greece",
+      "name": "Santorini Island Escape",
+      "price": 650,
+      "description": "Relax and unwind on the beautiful island of Santorini.",
+      "photo_url": "https://www.greecetours.com/wp-content/uploads/2016/04/Santorini-sunset-Firostefani.jpg",
+      "type": "hot_deal"
+    },
+    {
+      "id": 8,
+      "country": "Brazil",
+      "name": "Rio Carnival",
+      "price": 850,
+      "description": "Join the vibrant and colorful Rio Carnival.",
+      "photo_url": "https://bookers.s3.amazonaws.com/pages/aquecendo-antes-do-desfile-concentracao.jpg",
+      "type": "exclusive"
+    },
+    {
+      "id": 9,
+      "country": "South Africa",
+      "name": "Cape Town Safari",
+      "price": 950,
+      "description": "Experience a thrilling safari adventure in Cape Town.",
+      "photo_url": "https://gurutours.co.za/wp-content/uploads/big-5-aquila-safari.jpg",
+      "type": "hot_deal"
+    },
+    {
+      "id": 10,
+      "country": "Mexico",
+      "name": "Cancun Beach Resort",
+      "price": 700,
+      "description": "Relax at a luxurious beach resort in Cancun.",
+      "photo_url": "https://www.travelandleisure.com/thmb/HNJGaBI61yQvoP5oJXJb6p_rtJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/header-cancun-hotel-zone-CANCUNALLIN0117-6ed309db327e4a639f9e002fdfc7f658.jpg",
+      "type": "exclusive"
+    }
+  ]
+}
